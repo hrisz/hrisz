@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.vox-cdn.com/uploads/chorus_asset/file/4127648/Verge_02_Large.0.gif)
 <h1 align="center">Hi 👋, I'm Haris</h1>
-<img align="right" alt="gif" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+<img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 - 🔭 I’m currently working on [Elaina Bot Discord](https://top.gg/bot/764838063968616449)
 
