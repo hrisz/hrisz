@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.vox-cdn.com/uploads/chorus_asset/file/4127648/Verge_02_Large.0.gif)
+![MasterHead](https://i.postimg.cc/431hnVZq/genshin-impact-game-2021-ig-1-1.png)
 <h1 align="center">Hi 👋, I'm Haris</h1>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
