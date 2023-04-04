@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/pb0whb9/466889-anime-digital-art-artwork-2-D-illustration-anime-girls.jpg)
+![MasterHead](https://i.ibb.co/zfx5HPH/higuchi.jpg)
 <h1 align="center">Hi 👋, I'm Haris</h1>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
