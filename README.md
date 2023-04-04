@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Discord bot "Elaina"](https://top.gg/bot/764838063968616449)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Unity Engine**
 
 - ⚡ Fun fact : **be a part in big tech company is one of my goal**
 
