@@ -13,7 +13,7 @@
 
 <h3 align="left">My social media:</h3>
 <p align="left">
-<a href="https://instagram.com/iam_hrisu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="iam_hrisu" height="27" width="27" /></a>
+<a href="https://instagram.com/mikazuumi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="iam_hrisu" height="27" width="27" /></a>
 <a href="https://www.youtube.com/c/hrisz" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" alt="hrisz" height="24" width="33" /></a>
 <a href="https://www.pixiv.net/en/users/87968002" target="blank"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80bda55e-e860-4969-8f37-9e9d51e43927/d8zog8c-096eea14-5aef-4e40-a154-dafbbc2886ba.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgwYmRhNTVlLWU4NjAtNDk2OS04ZjM3LTllOWQ1MWU0MzkyN1wvZDh6b2c4Yy0wOTZlZWExNC01YWVmLTRlNDAtYTE1NC1kYWZiYmMyODg2YmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4VZ6ddnVkwX3E35TsJqtaHPBlANMSrmagGfNsqRA1mo" alt="mika" height="27" width="26" /></a>
 </p>
