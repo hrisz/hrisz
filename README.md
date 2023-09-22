@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Haris</h1>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
-- 🔭 I’m currently working on [Discord bot "Elaina"](https://top.gg/bot/764838063968616449)
+- 🔭 I’m currently working on **Kairra: Ever After (An RPG Story Game)**
 
 - 🌱 I’m currently learning **Unity Engine**
 
