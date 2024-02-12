@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/jGSyBBR/pixel-jeff-witch-1.gif)
 <h1 align="center">Hi 👋, I'm Haris</h1>
-<img align="right" alt="gif" width="400" src="https://i.ibb.co/vwXDQk9/no-adventure-here-3.gif">
+<img align="right" alt="gif" width="400" src="https://i.ibb.co/tZgR7dr/no-adventure-here-3-1.gif">
 
 - 🔭 I’m currently working on **Kairra: Ever After (An RPG Story Game)**
 
