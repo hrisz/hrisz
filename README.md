@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co.com/KVfytM8/pixel-jeff-noodles-2.gif)
+![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczPvd-SGm8IXcucz_KqN93WisQVH0dH7s2eTibE4DzeVIXpaitTIiWdT3_XuMsDqCnCoTIomRb_sgIt6FcFCV7ZHW-5oq-jJ_VtkEEruEBUIgkJnelp48xgGdQcJzRrI54BlDeLZ1eQh-fZTVNUnfIe5=w1080-h248-s-no-gm)
 <h1 align="center">Hi 👋, I am Haris</h1>
 <img align="right" alt="gif" width="400" src="https://i.ibb.co/WGVqj10/pixel-jeff-sunday-mood-2.gif">
 
