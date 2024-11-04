@@ -1,4 +1,4 @@
-![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczPvd-SGm8IXcucz_KqN93WisQVH0dH7s2eTibE4DzeVIXpaitTIiWdT3_XuMsDqCnCoTIomRb_sgIt6FcFCV7ZHW-5oq-jJ_VtkEEruEBUIgkJnelp48xgGdQcJzRrI54BlDeLZ1eQh-fZTVNUnfIe5=w1080-h248-s-no-gm)
+![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczNvo6h5iy9SKdjCSuyH0SYC9hqKedIBa9xx7jB-WCqL589LV3F-g8ggFOXufNjfn3kCaJQh6SD7PhQq5PZhaclWZ75WOdTmbn5UZl66PF3r2GI6aij9Ykh7S38I-VKg7kpUJHR2gQ-KMUmi0kR8yTV3=w1920-h440-s-no-gm)
 <h1 align="center">Hi 👋, I am Haris <span><img src="https://i0.wp.com/walfiegif.wordpress.com/wp-content/uploads/2024/09/out-transparent-3.gif?resize=560%2C560&ssl=1" width="50"></span></h1>
 <img align="right" alt="gif" width="200" src="https://media.tenor.com/a6rMUMQktqsAAAAi/amelia-amelia-watson.gif">
 
