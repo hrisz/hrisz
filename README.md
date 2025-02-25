@@ -20,7 +20,7 @@
     <img src="https://i.namu.wiki/i/Bmws3Lut9SPDLijBh6RUMz9VtYxjrmXWjlZBF2dgeTYMOGAKntfH1VQnuinzwv7fmy2xoik3csUhyqrchSyKmQ.webp" alt="discord py" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" alt="premierepro" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/>
@@ -37,8 +37,17 @@
   <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="csharp" width="35" height="40"/>
   </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang" width="40" height="35"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdnlogo.com/logos/p/20/postman.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" alt="mysql" width="40" height="40"/>
+  </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="csharp" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="dart" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="vscode" width="40" height="40"/>
@@ -50,13 +59,16 @@
     <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="mongodb" width="35" height="40"/>
   </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="unity" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="godot" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/id_id/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premierepro" width="40" height="40"/>
+  </a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" alt="heroku" width="40" height="40"/>
   </a>
 </p>
 
