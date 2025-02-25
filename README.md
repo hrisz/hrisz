@@ -19,6 +19,9 @@
   <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://i.namu.wiki/i/Bmws3Lut9SPDLijBh6RUMz9VtYxjrmXWjlZBF2dgeTYMOGAKntfH1VQnuinzwv7fmy2xoik3csUhyqrchSyKmQ.webp" alt="discord py" width="40" height="40"/>
   </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" alt="premierepro" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/>
   </a>
@@ -33,6 +36,9 @@
   </a>
   <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="csharp" width="35" height="40"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="vscode" width="40" height="40"/>
@@ -64,5 +70,8 @@
   </a>
   <a href="https://www.pixiv.net/en/users/87968002" target="blank">
     <img align="center" src="https://asset.brandfetch.io/idIlKj_n7C/idJlkzQmpx.jpeg" alt="mika" height="24" width="24" />
-</a>
+  </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrisz&theme=tokyonight&layout=compact"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hrisz&show_icons=true&theme=tokyonight"></p>
