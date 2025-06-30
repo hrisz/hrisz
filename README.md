@@ -68,7 +68,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premierepro" width="40" height="40"/>
   </a>
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/heroku-icon-2048x2048-4rs1dp6p.png" alt="heroku" width="40" height="40"/>
+    <img src="https://images.icon-icons.com/2407/PNG/512/heroku_icon_146166.png" alt="heroku" width="40" height="40"/>
   </a>
 </p>
 
