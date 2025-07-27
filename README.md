@@ -16,6 +16,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="50" height="35"/>
   </a>
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+    <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="Nuxt" width="50" height="40"/>
+  </a>
   <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://i.namu.wiki/i/Bmws3Lut9SPDLijBh6RUMz9VtYxjrmXWjlZBF2dgeTYMOGAKntfH1VQnuinzwv7fmy2xoik3csUhyqrchSyKmQ.webp" alt="discord py" width="40" height="40"/>
   </a>
