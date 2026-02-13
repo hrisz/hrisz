@@ -19,6 +19,9 @@
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
     <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="Nuxt" width="50" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nextjs.webp" alt="Next" width="40" height="40"/>
+  </a>
   <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://i.namu.wiki/i/Bmws3Lut9SPDLijBh6RUMz9VtYxjrmXWjlZBF2dgeTYMOGAKntfH1VQnuinzwv7fmy2xoik3csUhyqrchSyKmQ.webp" alt="discord py" width="40" height="40"/>
   </a>
@@ -29,7 +32,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/960px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -56,7 +59,7 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/960px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="mongodb" width="35" height="40"/>
