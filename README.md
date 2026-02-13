@@ -86,10 +86,4 @@
   <a href="https://www.youtube.com/c/hrisz" target="blank">
     <img align="center" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" alt="hrisz" height="28" width="38" />
   </a>
-  <a href="https://www.pixiv.net/en/users/87968002" target="blank">
-    <img align="center" src="https://asset.brandfetch.io/idIlKj_n7C/idJlkzQmpx.jpeg" alt="mika" height="24" width="24" />
-  </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrisz&theme=tokyonight&layout=compact"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hrisz&show_icons=true&theme=tokyonight"></p>
