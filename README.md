@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/a6rMUMQktqsAAAAi/amelia-amelia-watson.gif" width="120"/>
+  <img src="https://media.tenor.com/a6rMUMQktqsAAAAi/amelia-amelia-watson.gif" width="140"/>
 </p>
 
 ---
